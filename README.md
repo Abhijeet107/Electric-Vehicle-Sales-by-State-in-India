@@ -2,7 +2,8 @@
 This project analyzes EV sales data across Indian states, focusing on sales distribution by vehicle type, category, and region.  
 
 # Dashboard
-![Uploading Screenshot 2025-02-25 145538.png…]()
+![Screenshot 2025-02-25 145538](https://github.com/user-attachments/assets/e18139f7-f5fc-4915-9313-12a277be1d17)
+
 
 
 ## Key Metrics  
