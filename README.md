@@ -1,6 +1,9 @@
 # Electric-Vehicle-Sales-by-State-in-India
 This project analyzes EV sales data across Indian states, focusing on sales distribution by vehicle type, category, and region.  
 
+# Dashboard
+![Uploading Screenshot 2025-02-25 145538.png…]()
+
 
 ## Key Metrics  
 - **Total EV Sales**: 4M (units)  
